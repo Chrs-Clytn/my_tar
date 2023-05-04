@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "stat.h": "c",
+        "my_tar.h": "c",
+        "parsing.h": "c"
+    }
+}
